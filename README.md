@@ -1,1 +1,1 @@
-# Movie Rating analytics with visualaization
+# Movie Rating analytics with visualisation
